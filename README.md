@@ -12,7 +12,7 @@ An opinated set of recipes for installing [Graphite][graphite] & [StatsD][statsd
 
 #### Set a custom cookbook
 
-Point the repository url to `https://github.com/coffeeworks/graphite_aws.git`
+Point the repository url to `https://github.com/ryanmaclean/opsworks_graphite_statsd.git`
 
 ![set_cookbook](https://f.cloud.github.com/assets/14196/2393426/6e0aef86-a991-11e3-9001-7f366f9c9b5c.png)
 
