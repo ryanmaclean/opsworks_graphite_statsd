@@ -1,4 +1,4 @@
-# <a name="title"></a> graphite_aws
+# <a name="title"></a> OpsWorks Graphite Statsd
 
 ## <a name="description"></a> Description
 
